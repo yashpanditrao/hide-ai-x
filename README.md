@@ -11,7 +11,7 @@ A simple browser extension that helps you hide potentially AI-generated posts on
 
 ## Installation
 
-1. Clone this repository or download the files
+1. Clone this repository using `git clone https://github.com/yashpanditrao/hide-ai-x/`
 2. Open your browser's extension management page
    - Chrome: `chrome://extensions/`
    - Edge: `edge://extensions/`
